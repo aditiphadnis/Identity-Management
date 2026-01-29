@@ -1,0 +1,5 @@
+{
+  "name": "Enterprise.ai Identity Management",
+  "description": "A high-fidelity replica of an enterprise user provisioning and RBAC governance console, featuring a clean dashboard layout with environment selection and organizational context management.",
+  "requestFramePermissions": []
+}
